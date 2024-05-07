@@ -1,0 +1,34 @@
+Group A (Any 4) (Based on Machine intelligence for Data Science)
+Assignment 1: Access an open source dataset “Titanic”. Apply pre-processing techniques on the raw 
+dataset. 
+Assignment 2: Text classification for Sentimental analysis using KNN. (Refer any dataset like Titanic, 
+Twitter, etc.) 
+Assignment 3: Write a program to recognize a document is positive or negative based on polarity 
+words using suitable classification method.
+Assignment 4: Download Abalone dataset. (URL: http://archive.ics.uci.edu/ml/datasets/Abalone) 
+a) Predict the number of rings either as a continuous value or as a classification problem. 
+b) Predict the age of abalone from physical measurements using linear regression 
+Assignment 5: We have given a collection of 8 points. 
+P1=[0.1,0.6] 
+P2=[0.15,0.71] 
+P3=[0.08,0.9] 
+P4=[0.16, 0.85] 
+P5=[0.2,0.3] 
+P6=[0.25,0.5] 
+P7=[0.24,0.1] 
+P8=[0.3,0.2]
+Perform the k-mean clustering with initial centroids as m1=P1 =Cluster#1=C1 and 
+m2=P8=cluster#2=C2. 
+Answer the following 
+1] Which cluster does P6 belong to?
+2] What is the population of cluster around m2? 
+3] What is updated value of m1 and m2?
+
+Group B (Any 4) (Based on Artificial Neural Network))
+Assignment 1: Write a program to scheme a few activation functions that are used in neural networks
+Assignment 2: Write a program to show back propagation network for XOR function with binary input 
+and output 
+Assignment 3: Write a program for producing back propagation feed forward network 
+Assignment 4: Write a program to demonstrate ART 
+Assignment 5:Write a program to demonstrate the perceptron learning law with its decision region
+using python. Give the output in graphical form
